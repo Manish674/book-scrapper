@@ -1,8 +1,4 @@
-import scrapy
-
-'''
-[  ] Read pdfs online
-[  ] read headings and content
-        L [  ] get structured data
-
-'''
+for n in range(-1, 2, 1):
+    print("it started")
+    print(n)
+    print("it reached here")
